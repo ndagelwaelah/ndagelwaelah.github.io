@@ -6,6 +6,180 @@
       "title":"More Apps",
       "image":"https://ndagelwaelah.github.io/image/semua.webp",
       "link":"https://play.google.com/store/apps/developer?id=ndagel"
+    },
+    {
+      "id":2,
+      "title":"Ria Ricis",
+      "image":"https://ndagelwaelah.github.io/image/riaricisndagel.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.ndagel.riaricisndagel"
+    },
+    {
+      "id":3,
+      "title":"Atta Halilintar",
+      "image":"https://ndagelwaelah.github.io/image/attahalilintarndagel.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.ndagel.attahalilintarndagel"
+    },
+    {
+      "id":4,
+      "title":"Baim Wong",
+      "image":"https://ndagelwaelah.github.io/image/baimwongndagel.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.ndagel.baimwongndagel"
+    },
+    {
+      "id":5,
+      "title":"Raffi Ahmad",
+      "image":"https://ndagelwaelah.github.io/image/raffiahmadndagel.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.ndagel.raffiahmadndagel"
+    },
+    {
+      "id":6,
+      "title":"Boboiboy",
+      "image":"https://ndagelwaelah.github.io/image/boboiboyndagel.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.ndagel.boboiboyndagel"
+    },
+    {
+      "id":7,
+      "title":"Upin Ipin",
+      "image":"https://ndagelwaelah.github.io/image/upinipinndagel.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.ndagel.upinipinndagel"
+    },
+    {
+      "id":8,
+      "title":"Sakura School",
+      "image":"https://ndagelwaelah.github.io/image/sakuraschoolndagel.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.ndagel.sakuraschoolndagel"
+    },
+    {
+      "id":9,
+      "title":"Messi",
+      "image":"https://ndagelwaelah.github.io/image/lionelmessigoatndagel.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.ndagel.lionelmessigoatndagel"
+    },
+    {
+      "id":10,
+      "title":"Rod Contreras",
+      "image":"https://ndagelwaelah.github.io/image/rodrigocontrerasndagel.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.ndagel.rodrigocontrerasndagel"
+    },
+    {
+      "id":11,
+      "title":"Domelipa",
+      "image":"https://ndagelwaelah.github.io/image/dominikdomelipandagel.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.ndagel.dominikdomelipandagel"
+    },
+    {
+      "id":12,
+      "title":"Giovanna",
+      "image":"https://ndagelwaelah.github.io/image/giovannaalparonendagel.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.ndagel.giovannaalparonendagel"
+    },
+    {
+      "id":13,
+      "title":"Felipe Neto",
+      "image":"https://ndagelwaelah.github.io/image/felipenetondagel.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.ndagel.felipenetondagel"
+    },
+    {
+      "id":14,
+      "title":"Lady Diana",
+      "image":"https://ndagelwaelah.github.io/image/ladydianabunnyndagel.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.ndagel.ladydianabunnyndagel"
+    },
+    {
+      "id":15,
+      "title":"Diana Show",
+      "image":"https://ndagelwaelah.github.io/image/dianashowndagel.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.ndagel.dianashowndagel"
+    },
+    {
+      "id":16,
+      "title":"Dixie DAmelio",
+      "image":"https://ndagelwaelah.github.io/image/dixiedameliondagel.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.ndagel.dixiedameliondagel"
+    },
+    {
+      "id":17,
+      "title":"Charli DAmelio",
+      "image":"https://ndagelwaelah.github.io/image/charlidameliondagel.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.ndagel.charlidameliondagel"
+    },
+    {
+      "id":18,
+      "title":"Abby Roberts",
+      "image":"https://ndagelwaelah.github.io/image/abbyrobertsndagel.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.ndagel.abbyrobertsndagel"
+    },
+    {
+      "id":19,
+      "title":"Addison Rae",
+      "image":"https://ndagelwaelah.github.io/image/addisonraendagel.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.ndagel.addisonraendagel"
+    },
+    {
+      "id":20,
+      "title":"Bella Poarch",
+      "image":"https://ndagelwaelah.github.io/image/bellapoarchndagel.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.ndagel.bellapoarchndagel"
+    },
+    {
+      "id":21,
+      "title":"Billie Eilish",
+      "image":"https://ndagelwaelah.github.io/image/billieeilishndagel.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.ndagel.billieeilishndagel"
+    },
+    {
+      "id":22,
+      "title":"Karol G",
+      "image":"https://ndagelwaelah.github.io/image/karolgndagel.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.ndagel.karolgndagel"
+    },
+    {
+      "id":23,
+      "title":"Karol Sevilla",
+      "image":"https://ndagelwaelah.github.io/image/karolsevillandagel.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.ndagel.karolsevillandagel"
+    },
+    {
+      "id":24,
+      "title":"Katy Perry",
+      "image":"https://ndagelwaelah.github.io/image/katyperryndagel.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.ndagel.katyperryndagel"
+    },
+    {
+      "id":25,
+      "title":"Kim Loaiza",
+      "image":"https://ndagelwaelah.github.io/image/kimloaizandagel.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.ndagel.kimloaizandagel"
+    },
+    {
+      "id":26,
+      "title":"Kylie Jenner",
+      "image":"https://ndagelwaelah.github.io/image/kyliejennerndagel.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.ndagel.kyliejennerndagel"
+    },
+    {
+      "id":27,
+      "title":"Luluca",
+      "image":"https://ndagelwaelah.github.io/image/lulucandagel.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.ndagel.lulucandagel"
+    },
+    {
+      "id":28,
+      "title":"Mont Pantoja",
+      "image":"https://ndagelwaelah.github.io/image/montpantojandagel.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.ndagel.montpantojandagel"
+    },
+    {
+      "id":29,
+      "title":"Taylor Swift",
+      "image":"https://ndagelwaelah.github.io/image/taylorswiftndagel.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.ndagel.taylorswiftndagel"
+    },
+    {
+      "id":30,
+      "title":"Virginia Fonseca",
+      "image":"https://ndagelwaelah.github.io/image/virginiafonsecandagel.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.ndagel.virginiafonsecandagel"
     }
   ]
 
